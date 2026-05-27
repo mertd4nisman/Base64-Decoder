@@ -179,3 +179,22 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# JetBrains editör ayarları (PyCharm, IntelliJ vb.)
+.idea/
+*.iws
+
+# Python derleme ve önbellek (cache) dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam klasörleri (Virtual Environments)
+venv/
+.venv/
+env/
+.env/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
