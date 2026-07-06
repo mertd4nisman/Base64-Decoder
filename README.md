@@ -18,4 +18,3 @@
 ## 🛠️ Kurulum ve Çalıştırma / Installation & Usage
 
 Projenin bilgisayarınızda çalışması için sadece **Python 3.x** kurulu olması yeterlidir.
-ü
